@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mobil</string>
+    <string name="light">Light</string>
+    <string name="x">X</string>
+    <string name="y">Y</string>
+    <string name="z">Z</string>
+</resources>
